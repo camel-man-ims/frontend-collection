@@ -39,6 +39,8 @@ h1: hover
 
 ### visibility
 
+[visibility](./visibility.html)
+
 * collapse
   * table 내에서 없애버림
 * hidden    
@@ -48,4 +50,18 @@ h1: hover
 
 * 투명도
 
+## 박스 속성
 
+[margin-border-padding](./margin-border-padding.html)
+
+* margin
+  * 바깥과의 거리
+* border
+  * 바깥 조끼
+* padding
+  * 내부 조끼
+
+### 방향
+  * 위부터 시계방향
+    * 위쪽 오른쪽 아래 왼쪽
+  * 2개만 쓰면 위아래, 오른쪽왼쪽
