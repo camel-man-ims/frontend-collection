@@ -2,20 +2,25 @@
 
 * * 모든 태그
 
-* 속성 선택자
+### 속성 선택자
 
 ```css
 input[type=text] { background : blue;}
 ```
 
-* [동위 선택자](./동위선택자.html)
+### [동위 선택자](./동위선택자.html)
 
-* 반응선택자
+* +
+  * 맨 위의 자식
+* ~
+  * 하위 모든 자식
+
+### 반응선택자
 
 h1: active
 h1: hover
 
-* 상태 선택자
+### 상태 선택자
 
 :checked
 :focus
@@ -29,13 +34,12 @@ h1: hover
 * em
 * px
 
-### inline - inline-blcok
+### inline - inline-block
 
 [inline](./%EC%9D%B8%EB%9D%BC%EC%9D%B8%EB%B8%94%EB%A1%9D.html)
 
 * inline
   * width, height 속성 적용 x
-
 
 ### visibility
 
